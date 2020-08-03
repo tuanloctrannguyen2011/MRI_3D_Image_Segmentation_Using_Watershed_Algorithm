@@ -1,0 +1,24 @@
+o Thư mục <UngDungThuatToanWatershedTrongPhanDoanAnhMRI3D>: gồm hai thư mục con được tổ chức như sau:
+− SETUP: chứa các tập tin chứa dữ liệu thử.
+− SOURCE: chứa các tập tin code.
+o Thư mục THESIS: chứa các tập tin tài liệu dạng văn bản của đồ án tốt nghiệp, với các
+thư mục con được tổ chức như sau:
+− DOC: chứa tài liệu dạng .DOC, .DOCX.
+− PDF: chứa tài liệu dạng .PDF.
+− ABS: chứa các file báo cáo trình chiếu dạng .PPT, .PPTX.
+o Thư mục REF: chứa các tài liệu, văn bản dùng để tham khảo khi thực hiện đồ án.
+o Thư mục SOFT: chứa các phần mềm liên quan trong quá trình thực hiện đồ án. 
+
+
+
+------------------------------------------------------------------------------------------------------
+
+
+
+Giảng viên hướng dẫn: ThS. VÕ QUANG HOÀNG KHANG
+Lớp: DHKHMT12A
+Họ và tên sinh viên 1: NGUYỄN THÀNH LUÂN
+Mã số sinh viên 1: 16026801
+Họ và tên sinh viên 2: TRẦN NGUYỄN TUẤN LỘC
+Mã số sinh viên 2: 16038271
+

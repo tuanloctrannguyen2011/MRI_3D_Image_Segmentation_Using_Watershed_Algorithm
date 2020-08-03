@@ -1,0 +1,5 @@
+Tiếng Việt
+	Bộ lọc Trung vị (Median filter) (05/02/2013), https://globlib4u.wordpress.com/2013/02/05/bo-loc-trung-vi-median-filter/
+Tiếng Anh
+	Marker-Controlled Watershed Segmentation, https://www.mathworks.com/help/images/marker-controlled-watershed-segmentation.html
+	MATLAB Help Center, https://www.mathworks.com/help/index.html/

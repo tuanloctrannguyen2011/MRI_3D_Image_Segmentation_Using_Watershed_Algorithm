@@ -1,0 +1,1 @@
+CHẠY FILE testing1.m TRƯỚC SAU ĐÓ CHẠY FILE morphological.m. FILE imshow3D DÙNG ĐỂ HIỂN THỊ ẢNH.
